@@ -1,4 +1,4 @@
-#  👍 유서현 (Ryu Seohyun)
+#  👍 clare-u, 유서현(Ryu Seohyun)
 
 
 ### 🙋‍♀️ About me
