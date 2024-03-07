@@ -1,7 +1,7 @@
-#  👍 clare-u, 유서현(Ryu Seohyun)
-
+#  👍 clare-u
 
 ### 🙋‍♀️ About me
+##### 유서현(Ryu Seohyun)
 ##### Major : Accounting (회계학)
 ##### Education : SSAFY 11th
 ##### MBTI : INTP
