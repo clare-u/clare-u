@@ -18,7 +18,7 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ucream-sh&layout=compact&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clare-u&layout=compact&show_icons=true&theme=dark)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=ucream)](https://solved.ac/ucream)
